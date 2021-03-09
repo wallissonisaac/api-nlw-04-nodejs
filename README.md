@@ -1,6 +1,6 @@
 # api-nlw-04-nodejs
 
-<img width="720" src="/_docs/screen.jpg" />
+<img width="1081" src="/_docs/screen.jpg" />
 
 
 
